@@ -12,3 +12,6 @@ for i in range (10) :
   open ("combo.txt" ,"a").write("\n"+number + ":" + password )
  
 ```
+
+After making combo check accounts with Facebook checker 😴
+
